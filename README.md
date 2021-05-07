@@ -3,15 +3,15 @@
 I'am based in <strong>Mumbai, Maharashtra.</strong>
 
 ## Skill I Have:
-- <strong>Programming Language:</strong> C++,Python 3.x, C, Javascript, Typescript.
+- <strong>Programming Language:</strong> C++, Python 3.x, C, Javascript, Typescript.
 - <strong>FrameWork:</strong> Django, Angular 11.
 - <strong>Cloud:</strong> AWS.
 
 ## What I'm Focusing on:
 
-- Currently Improving:<br>
+- Currently Improving my:<br>
 &nbsp;&nbsp;&nbsp;&nbsp; <strong>Machine Learning Skills.</strong><br>
-&nbsp;&nbsp;&nbsp;&nbsp; <strong>Cloud Skills:</strong> GCP,AWS. <br> 
+&nbsp;&nbsp;&nbsp;&nbsp; <strong>Cloud Skills:</strong> GCP, AWS. <br> 
 
 
 
