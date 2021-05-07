@@ -1,6 +1,6 @@
 # :wave: Hey, I'm Prashant Singh! 
 
-I'am based in <strong> Mumbai, Maharashtra. </strong>
+I'am based in <strong>Mumbai, Maharashtra.</strong>
 
 ## Skill I Have:
 - <strong>Programming Language:</strong> C++,Python 3.x, C, Javascript, Typescript.
@@ -10,7 +10,7 @@ I'am based in <strong> Mumbai, Maharashtra. </strong>
 ## What I'm Focusing on:
 
 - Currently Improving:<br>
-&nbsp;&nbsp;&nbsp;&nbsp; <strong>Machine Learning Skills</strong><br>
+&nbsp;&nbsp;&nbsp;&nbsp; <strong>Machine Learning Skills.</strong><br>
 &nbsp;&nbsp;&nbsp;&nbsp; <strong>Cloud Skills:</strong> GCP,AWS. <br> 
 
 
