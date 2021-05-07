@@ -1,6 +1,6 @@
 # :wave: Hey, I'm Prashant Singh! 
 
-I'am based in Mumbai, Maharashtra.
+I'am based in <strong> Mumbai, Maharashtra. <strong>
 
 ## Skill I Have:
 - <strong>Programming Language:</strong> C++,Python 3.x, C, Javascript, Typescript.
