@@ -7,7 +7,7 @@ I'am based in Mumbai, Maharashtra.
 - <strong>FrameWork:</strong> Django, Angular 11.
 - <strong>Cloud:</strong> AWS.
 
-## What I'm Focusing on
+## What I'm Focusing on:
 
 - Currently Improving:<br>
 &nbsp;&nbsp;&nbsp;&nbsp; <strong>Machine Learning Skills</strong><br>
