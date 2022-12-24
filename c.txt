@@ -1,0 +1,52 @@
+from django.shortcuts import render
+import google.auth
+import google.auth.transport.requests
+import requests,json
+import urllib
+import pathlib
+import os
+from search.forms import SearchOp
+
+# Create your views here.
+def results(request,qterm):
+    cred = os.path.join(pathlib.Path(__file__).parent.parent.parent.resolve(),'tgs-internal-saige-sandbox-001-fa1382577494.json')
+    os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = cred
+    credentials, project_id = google.auth.default(scopes=['https://www.googleapis.com/auth/cloud-platform','https://www.googleapis.com/auth/cloud-platform.read-only'])
+    request1 = google.auth.transport.requests.Request()
+    credentials.refresh(request1)
+    token = credentials.token
+    
+    PID="tgs-internal-saige-sandbox-001" 
+    SERVING_CONFIG_ID="default_search" 
+    VISITORID ="101"   
+    PAGESIZE='2'
+    #print(f'I am from results fun: {qterm}')
+    payload={
+        'pageSize':f'{PAGESIZE}',
+        'branch':f'projects/{PID}/locations/global/catalogs/default_catalog/branches/0',
+        'query':f'{qterm}',
+        'visitorId':f'{VISITORID}'}
+
+    url = f"https://retail.googleapis.com/v2/projects/{PID}/locations/global/catalogs/default_catalog/placements/{SERVING_CONFIG_ID}:search"
+    
+    headers = {
+    'Authorization': f'Bearer {token}',
+    'Content-Type': 'application/json'
+    }
+
+    response = requests.post(url, json=payload, headers=headers)
+
+    res = json.loads(response.content)
+    return res
+    
+def home(request):
+    query_txt = SearchOp()
+    w = {'results':''}
+    if request.method=='POST':
+        query_txt = SearchOp(request.POST)
+        term = request.POST['query']
+        #print(term)
+        w['results'] = results(request,qterm=term)
+    #print(w['results'])
+    mydic = {'query': query_txt,'results':w['results']}
+    return render(request,'home.html',mydic)
