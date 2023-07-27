@@ -3,8 +3,8 @@
 I'am based in <strong>Mumbai, Maharashtra.</strong>
 
 ## Skill I Have:
-- <strong>Programming Language:</strong> C++, Python 3.x, C, Javascript, Typescript.
-- <strong>FrameWork:</strong> Django, Angular 11.
+- <strong>Programming Language:</strong> C++, Python 3.x, C.
+- <strong>FrameWork:</strong> Django
 - <strong>Cloud:</strong> AWS.
 
 ## What I'm Focusing on:
