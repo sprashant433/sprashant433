@@ -125,7 +125,7 @@ Haldia Institute of Technology
 
 ## 📄 Resume
 
-👉 [Download My Resume](https://drive.google.com/your-resume-link)
+👉 [Download My Resume](https://docs.google.com/document/d/1Alb4Jfx6ucBH9Wx1Q0KsjaYzulyiKvSMmYeg28Bfc60/edit?usp=sharing)
 
 ---
 
