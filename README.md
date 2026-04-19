@@ -1,3 +1,24 @@
+## 👋 Quick Intro
+
+Hi, I’m Prashant.  
+I have around 5+ years of experience, primarily in Machine Learning Engineering and Data Engineering roles.  
+
+Currently, I’m working as an MLE with the promo team, where I focus on building low-latency, real-time forecasting systems on TAP.  
+
+Over time, I’ve also gained experience in **Generative AI**. I’ve worked with frameworks like LangChain and the OpenAI SDK, built RAG-based systems, and used frontier models like GPT, Claude, and Gemini. I’ve also worked with Hugging Face and applied techniques like LoRA and QLoRA for efficient fine-tuning. I’ve worked with vector db like FAISS and Chroma.  
+
+I also come from a **big data** background, with experience in Hadoop, Hive, PySpark, and Apache Beam.  
+
+I’ve also worked with **Docker and DevOps** tools like Cloud Build and Cloud Composer as part of my workflows.  
+
+On the cloud side, **I primarily work with GCP** — deploying ML models using Vertex AI and building data pipelines using services like BigQuery, Dataproc, Cloud Storage, Pub/Sub, and Cloud Run.  
+
+I also hold two **Google Cloud certifications**: Associate Cloud Engineer and Professional Machine Learning Engineer.  
+
+That’s a quick overview of my experience.
+
+---
+
 # 👋 Hey, I'm Prashant Singh
 
 🚀 **Senior Machine Learning Engineer | LLM Engineer | Data Engineer**
