@@ -115,6 +115,7 @@ Scikit-learn • Pandas • NumPy • Matplotlib • SpaCy • Gensim
 ## 🎓 Education
 
 🎓 B.Tech in Computer Science | Jul 2017 – Jul 2021
+
 Haldia Institute of Technology
 **DGPA: 9.08 / 10 (83.3%)**
 
@@ -136,6 +137,7 @@ Haldia Institute of Technology
 ## 🤝 Let's Connect
 
 📧 [sprashant433@gmail.com](mailto:sprashant433@gmail.com)
+
 💻 [GitHub](https://github.com/sprashant433)
 
 ---
